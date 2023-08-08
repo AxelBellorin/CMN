@@ -67,6 +67,7 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Activity\Activity1.cs" />
     <Compile Include="Activity\Activity_layout_menu.cs" />
     <Compile Include="Activity\Activity_layout_order.cs" />
     <Compile Include="Activity\Activity_Detail_Order.cs" />
