@@ -1,0 +1,3 @@
+Azul: #0058DC
+Blanco: #FFFFFF
+Amarillo oro: #FFBF00
