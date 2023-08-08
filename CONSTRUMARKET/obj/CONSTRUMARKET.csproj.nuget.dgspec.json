@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\axelb\\OneDrive\\Escritorio\\CONSTRUMARKET MOBILE\\CONSTRUMARKET\\CONSTRUMARKET.csproj": {}
+    "C:\\Users\\Tropi\\Desktop\\plantilla de proyecto\\App ConstruMarket\\CMN\\CONSTRUMARKET\\CONSTRUMARKET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\axelb\\OneDrive\\Escritorio\\CONSTRUMARKET MOBILE\\CONSTRUMARKET\\CONSTRUMARKET.csproj": {
+    "C:\\Users\\Tropi\\Desktop\\plantilla de proyecto\\App ConstruMarket\\CMN\\CONSTRUMARKET\\CONSTRUMARKET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\axelb\\OneDrive\\Escritorio\\CONSTRUMARKET MOBILE\\CONSTRUMARKET\\CONSTRUMARKET.csproj",
+        "projectUniqueName": "C:\\Users\\Tropi\\Desktop\\plantilla de proyecto\\App ConstruMarket\\CMN\\CONSTRUMARKET\\CONSTRUMARKET.csproj",
         "projectName": "CONSTRUMARKET",
-        "projectPath": "C:\\Users\\axelb\\OneDrive\\Escritorio\\CONSTRUMARKET MOBILE\\CONSTRUMARKET\\CONSTRUMARKET.csproj",
-        "packagesPath": "C:\\Users\\axelb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\axelb\\OneDrive\\Escritorio\\CONSTRUMARKET MOBILE\\CONSTRUMARKET\\obj\\",
+        "projectPath": "C:\\Users\\Tropi\\Desktop\\plantilla de proyecto\\App ConstruMarket\\CMN\\CONSTRUMARKET\\CONSTRUMARKET.csproj",
+        "packagesPath": "C:\\Users\\Tropi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tropi\\Desktop\\plantilla de proyecto\\App ConstruMarket\\CMN\\CONSTRUMARKET\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\axelb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tropi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

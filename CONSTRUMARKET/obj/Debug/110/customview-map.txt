@@ -4,12 +4,12 @@ background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
 Button;obj\Debug\110\res\layout\layout_login.xml
 Button;obj\Debug\110\res\layout\layout_menu.xml
-cache-path;C:\Users\axelb\OneDrive\Escritorio\CONSTRUMARKET MOBILE\CONSTRUMARKET\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;C:\Users\Tropi\Desktop\plantilla de proyecto\App ConstruMarket\CMN\CONSTRUMARKET\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\110\res\values\colors.xml
 color;obj\Debug\110\res\values\ic_launcher_background.xml
 EditText;obj\Debug\110\res\layout\layout_login.xml
-external-cache-path;C:\Users\axelb\OneDrive\Escritorio\CONSTRUMARKET MOBILE\CONSTRUMARKET\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;C:\Users\axelb\OneDrive\Escritorio\CONSTRUMARKET MOBILE\CONSTRUMARKET\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;C:\Users\Tropi\Desktop\plantilla de proyecto\App ConstruMarket\CMN\CONSTRUMARKET\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Tropi\Desktop\plantilla de proyecto\App ConstruMarket\CMN\CONSTRUMARKET\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
 ImageView;obj\Debug\110\res\layout\adapter_cliente.xml
@@ -25,7 +25,7 @@ LinearLayout;obj\Debug\110\res\layout\layout_menu.xml
 LinearLayout;obj\Debug\110\res\layout\layout_order.xml
 ListView;obj\Debug\110\res\layout\layout_cliente.xml
 ListView;obj\Debug\110\res\layout\layout_order.xml
-paths;C:\Users\axelb\OneDrive\Escritorio\CONSTRUMARKET MOBILE\CONSTRUMARKET\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;C:\Users\Tropi\Desktop\plantilla de proyecto\App ConstruMarket\CMN\CONSTRUMARKET\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 RelativeLayout;obj\Debug\110\res\layout\adapter_order.xml
 resources;obj\Debug\110\res\values\colors.xml
 resources;obj\Debug\110\res\values\ic_launcher_background.xml

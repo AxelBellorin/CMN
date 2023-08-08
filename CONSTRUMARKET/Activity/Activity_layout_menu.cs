@@ -24,8 +24,8 @@ namespace CONSTRUMARKET
             // Create your application here
             SetContentView(Resource.Layout.layout_menu);
 
-            btn_pedido= FindViewById<Button> (Resource.Id.button1);
-            btn_cotizacion = FindViewById<Button>(Resource.Id.button2);
+            /*btn_pedido= FindViewById<Button> (Resource.Id.button1);
+            btn_cotizacion = FindViewById<Button>(Resource.Id.button2);*/
 
             btn_pedido.Click += Btn_pedido_Click;
             btn_cotizacion.Click += Btn_cotizacion_Click;   
